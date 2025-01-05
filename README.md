@@ -1,7 +1,4 @@
-
-
-
-#Optimisation de Portefeuille avec Python
+Optimisation de Portefeuille avec Python
 
 Ce projet explore des approches d'optimisation de portefeuilles financiers en utilisant diverses métriques de performance telles que le ratio de Sharpe, le ratio de Sortino et le ratio de Calmar. L'objectif est de développer des algorithmes robustes pour maximiser le rendement ajusté au risque tout en respectant les contraintes sur les poids des actifs.
 
