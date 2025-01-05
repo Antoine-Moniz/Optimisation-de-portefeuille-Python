@@ -14,4 +14,5 @@ Intégration : Analyse des performances avec pyfolio et quantstats.
 Structure des fichiers :
 
 fonctions.py : Contient toutes les fonctions principales pour le calcul des ratios, l'optimisation des poids et la gestion des contraintes.
+
 pythonL3.ipynb : Un notebook Jupyter démontrant l'utilisation des fonctions dans des scénarios d'optimisation réels.
